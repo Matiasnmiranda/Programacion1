@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112217 source:d:\comision 9\tp-pilas\tppila2\pila.c
+	"pila.h"
+
+1490112217 d:\comision 9\tp-pilas\tppila2\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1679436387 source:d:\comision 9\tp-pilas\tppila2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
